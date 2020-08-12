@@ -14,7 +14,7 @@
 
 📫 You can email me at cleberson.prt@gmail.com
 
-💬 “There is only one rule for being a good talker – learn to listen” (Christopher Morley)
+💬 “Communication works for those who work at it” (John Powell)
 
 📚 Clean Code (Robert Martin), Pragmatic Programmer (Andy Hunt, Dave Thomas), The Demon-Haunted World (Carl Sagan)
 
