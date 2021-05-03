@@ -8,7 +8,7 @@
 
 🔭 I’m currently building consumer-facing web apps with React JS as a Front-End Software Engineer for Dextra.
 
-🌱 I’m currently learning a lot about the JavaScript ecosystem, specially how to test apps written with it. I'm also learning CI/CD by implementing automated cloud jobs for testing with GitHub Actions.
+🌱 I’m currently learning how to handle a shared component library using the Lerna tool for JavaScript.
 
 👥 I find great meaning in helping other people learn, specially if learning about something I’m familiar with.
 
