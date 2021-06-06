@@ -6,13 +6,13 @@
 **cpertile/cpertile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🔭 I’m currently building consumer-facing web apps with React JS as a Front-End Software Engineer for Dextra.
+🔭 building consumer-facing web apps with React JS as a Front-End Software Engineer for Dextra.
 
-🌱 I’m currently learning how to handle a shared component library using the Lerna tool for JavaScript.
+🌱 learning how to handle a shared component library using the Lerna tool for monorepos.
 
 👥 I find great meaning in helping other people learn, specially if learning about something I’m familiar with.
 
-📫 You can email me at cleberson.prt@gmail.com
+📫 Find me at: https://linktr.ee/cpertile
 
 💬 “Communication works for those who work at it” (John Powell)
 
