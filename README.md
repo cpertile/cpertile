@@ -8,12 +8,8 @@
 
 🔭 building consumer-facing web apps with React JS as a Front-End Software Engineer.
 
-🌱 learning how to handle a shared component library using the Lerna tool for monorepos.
+🌱 always learning something new
 
 👥 I find great meaning in helping other people
 
-💬 “Communication works for those who work at it” (John Powell)
-
-📚 Clean Code (Robert Martin), Pragmatic Programmer (Andy Hunt, Dave Thomas), The Demon-Haunted World (Carl Sagan)
-
-⚡ Fun fact: I desperately love games, rocket science and road engineering
+📚 The Demon-Haunted World (Carl Sagan), Pragmatic Programmer (Andy Hunt, Dave Thomas), Clean Code (Robert Martin)
